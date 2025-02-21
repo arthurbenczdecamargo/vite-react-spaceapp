@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Large Magellanic Cloud",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-1.png",
+    "id": "1",
+    "tagId": 2
+  },
+  {
+    "title": "Milky Way",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-2.png",
+    "id": "2",
+    "tagId": 2
+  },
+  {
+    "title": "Moon: waning quarter",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-3.png",
+    "id": "3",
+    "tagId": 3
+  },
+  {
+    "title": "Planet Earth",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-4.png",
+    "id": "4",
+    "tagId": 4
+  },
+  {
+    "title": "Pistol Star",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-5.png",
+    "id": "5",
+    "tagId": 1
+  },
+  {
+    "title": "Milky Way: Galactic Center",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-6.png",
+    "id": "6",
+    "tagId": 2
+  },
+  {
+    "title": "Andromeda Galaxy",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-7.png",
+    "id": "7",
+    "tagId": 2
+  },
+  {
+    "title": "Blue Star Galaxy",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-8.png",
+    "id": "8",
+    "tagId": 2
+  },
+  {
+    "title": "Starry sky",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-9.png",
+    "id": "9",
+    "tagId": 1
+  },
+  {
+    "title": "Unknown Star",
+    "font": "Source: Internet",
+    "path": "/images/gallery/image-10.png",
+    "id": "10",
+    "tagId": 1
+  }
+]

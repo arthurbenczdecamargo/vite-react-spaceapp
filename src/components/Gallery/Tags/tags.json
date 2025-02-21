@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Stars",
+        "tag": 1
+    },
+    {
+        "id": 1,
+        "title": "Galaxies",
+        "tag": 2
+    },
+    {
+        "id": 2,
+        "title": "Moons",
+        "tag": 3
+    },
+    {
+        "id": 3,
+        "title": "Planets",
+        "tag": 4
+    },
+    {
+        "id": 4,
+        "title": "All"
+    }
+]
